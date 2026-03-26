@@ -1,3 +1,0 @@
-- [x] Modify the Products method to display product name, price, quantity, and total cost
-- [x] Remove the redundant total calculation from main method
-- [x] Add the missing closing brace for the Shoppingcart class
